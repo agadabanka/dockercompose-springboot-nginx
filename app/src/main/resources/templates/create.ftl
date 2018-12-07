@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hello Docker - Dec 7 10:33am</title>
+    <title>Creating Player!</title>
 </head>
 <body>
-    <h1>Hello Docker - Dec 7 10:33am</h1>
+    <h1>Creating Player!</h1>
 </body>
 </html>

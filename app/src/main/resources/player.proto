@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package cnc;
+
+option java_package = "com.cnc.springboot";
+option java_outer_classname = "PlayerProtos";
+
+message Player {
+	string id = 1;
+	string name = 2;
+	int32 level = 3;
+	string token = 4;
+}
